@@ -1,0 +1,29 @@
+body {
+    background-color: blanchedalmond;
+}
+.title {
+    font-family: 'Merienda One', cursive;
+    font-size: 30px 
+}
+.author {
+    font-family: 'Caveat', cursive;
+    font-size: 15px
+}
+main {
+    font-family: 'Kaushan Script', cursive;
+}
+p {
+    margin: 10px 10px 10px 10px;
+}
+footer {
+    font-size: 12px;
+}
+img {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+#top:{
+    color: olive
+}
